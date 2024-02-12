@@ -12,8 +12,19 @@ experiences:
   subtitle: "Amirkabir University of Technology"
   category: "work"
 
+- place: "Amirkabir University of Technology"
+  time: "Sep. 2021 - Sep. 2023"
+  title: "Master of Science in Computer Science"
+  subtitle: "Soft Computing & Artificial Intelligence"
+  category: "School"
+
 - place: "ACM Association"
   time: "Mar. 2021 - Aug. 2021"
   title: "Executive Assistant"
   subtitle: "Kharazmi University"
   category: "work"
+
+- place: "Kharazmi University"
+  time: "Sep. 2017 - Jul. 2021"
+  title: "Bachelor of Science in Computer Science"
+  category: "School"
