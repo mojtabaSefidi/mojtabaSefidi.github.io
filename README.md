@@ -1,31 +1,12 @@
-# Junmo Kang's Website (based on Martin Saveski's template)
+# Mohammadali Sefidi Esfahani's homepage (based on Martin Saveski's template)
 
-## Updates guide
-Change one of the files in `_data`, unless you are changing the look of the website.
+### How to use this template?
+1. Fork this repository (the name of repository should be same as your github username)
+2. Go to _data and update the information
+3. Go to assets and upload your desired material
+4. Go to index.html and update the information of different sections
+5. You can customize the layout by changing the files in the _layouts
 
-Test changes with:
-```
-jekyll serve
-```
-
-Push to the ML web directory:
-```
-rm -rf public_html
-mkdir public_html
-```
-```
-./__deploy.sh
-```
-
-More info on the [Media Lab wiki](http://wiki.media.mit.edu/view/Necsys/WebPagePersonal).
+* For more details visit [Martin Saveski's github](https://github.com/msaveski/www_personal).
 
 
-## External Libraries
-- Framework: [Jekyll](http://jekyllrb.com/)
-- CSS
-  - [Skeleton](getskeleton.com)
-  - Tabs: [Skeleton Tabs](https://github.com/nathancahill/skeleton-tabs)
-  - Experience: [Timeline](https://codepen.io/NilsWe/pen/FemfK)
-  - Icons: [Font Awesome](http://fontawesome.io/)
-- JS
-  - [Jquery (3.1.1)](https://jquery.com/)
