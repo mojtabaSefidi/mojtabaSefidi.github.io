@@ -193,10 +193,10 @@ layout: default
 <div class="docs-section" id="publications">
   <h4>Publications</h4>
 
-  <!-- <p>Most recent publications on <a href="{{ site.data.main_info.google_scholar }}" target="_blank">Google Scholar</a>.<br/> -->
+<!--   <p>Most recent publications on <a href="{{ site.data.main_info.google_scholar }}" target="_blank">Google Scholar</a>.<br/>
   <sup>*</sup> indicates equal contribution.
   </p>
-
+ -->
   <!-- <ul class="tab-nav">
     <li><div class="button active" data-ref="#papers-selected">Selected</div></li>
     <li><div class="button" data-ref="#papers-all">All</div></li>
@@ -207,7 +207,7 @@ layout: default
       {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
       {% for paper in selected_papers %}
         <div class="paper">
-          <div class="row">
+          <div class="row" style="margin: inherit; display: flex; align-items: center;">
             <div class="four columns">
               <div class="figure">
                 <img src="{{ paper.image }}" width="100%">
