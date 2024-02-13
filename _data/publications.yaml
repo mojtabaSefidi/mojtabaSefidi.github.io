@@ -7,7 +7,7 @@ papers:
     # poster: "/assets/publications/2023_dist_or_ann/poster.pdf"
     # slides: "/assets/publications/2023_dist_or_ann/slide.pdf"
     code: "https://github.com/mojtabaSefidi/EnrichEvent"
-    bibtex: "/assets/publications/2023_EnrichEvent/bibtex.bib"
+    bibtex: "/assets/publications/2023_EnrichEvent/bibtex.txt"
     selected: y
     
   - title: "Comparative Study on Performance of ML Models for Fall Detection in Older People"
@@ -18,7 +18,7 @@ papers:
     # poster: "/assets/publications/2023_dist_or_ann/poster.pdf"
     # slides: "/assets/publications/2023_dist_or_ann/slide.pdf"
     code: "https://github.com/mojtabaSefidi/Fall-Detection-System"
-    bibtex: "/assets/publications/2023_Fall_Detection/bibtex.bib"
+    bibtex: "/assets/publications/2023_Fall_Detection/bibtex.txt"
     selected: y
 
   - title: "Feature Learning for Identification of Persian Events from Twitter"
@@ -29,5 +29,5 @@ papers:
     # poster: "/assets/publications/2023_dist_or_ann/poster.pdf"
     # slides: "/assets/publications/2023_dist_or_ann/slide.pdf"
     code: "https://github.com/mojtabaSefidi/EnrichEvent"
-    bibtex: "/assets/publications/2023_Feature_Engineering_for_EventDetection/bibtex.bib"
+    bibtex: "/assets/publications/2023_Feature_Engineering_for_EventDetection/bibtex.txt"
     selected: y
