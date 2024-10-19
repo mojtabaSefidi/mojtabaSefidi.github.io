@@ -1,4 +1,4 @@
-@article{EnrichEvent2023,
+@article{Esfahani2023EnrichEvent,
   title={EnrichEvent: Enriching Social Data with Contextual Information for Emerging Event Extraction},
   author={Mohammadali Sefidi Esfahani and Mohammad Akbari},
   journal={ArXiv},
