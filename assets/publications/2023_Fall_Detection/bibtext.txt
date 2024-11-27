@@ -1,10 +1,10 @@
 @article{Esfahani2023FallDetection,
-	doi = {10.20944/preprints202312.2027.v1},
-	url = {https://doi.org/10.20944/preprints202312.2027.v1},
+	author = {Mohammadali Sefidi Esfahani and Mohammad Fattahian},
+	title = {Comparative Study on Performance of ML Models for Fall Detection in Older People},
 	year = 2023,
 	month = {December},
 	publisher = {Preprints},
-	author = {Mohammadali Sefidi Esfahani and Mohammad Fattahian},
-	title = {Comparative Study on Performance of ML Models for Fall Detection in Older People},
-	journal = {Preprints}
+	journal = {Preprints},
+	doi = {10.20944/preprints202312.2027.v1},
+	url = {https://doi.org/10.20944/preprints202312.2027.v1}
 }
