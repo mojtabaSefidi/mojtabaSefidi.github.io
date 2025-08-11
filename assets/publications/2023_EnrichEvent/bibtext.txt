@@ -1,8 +1,7 @@
-@article{Esfahani2023EnrichEvent,
+@article{Esfahani2025EnrichEvent,
   title={EnrichEvent: Enriching Social Data with Contextual Information for Emerging Event Extraction},
   author={Mohammadali Sefidi Esfahani and Mohammad Akbari},
-  journal={ArXiv},
-  year={2023},
-  volume={abs/2307.16082},
-  url={https://api.semanticscholar.org/CorpusID:260334519}
+  journal={Iran Journal of Computer Science},
+  year={2025},
+  doi={https://doi.org/10.1007/s42044-025-00284-2}
 }
