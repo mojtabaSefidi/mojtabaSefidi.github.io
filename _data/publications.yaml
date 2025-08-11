@@ -1,8 +1,19 @@
 papers:
+  - title: "The Cost vs the Benefit of Adding an Extra Code Reviewer to Mitigate Developer Turnover through Reviewer Recommenders"
+    image: "/assets/publications/2026_SofiaLearnerPlus/SimulationMethod.png"
+    authors: "<b>Mohammadali Sefidi Esfahani</b>, <b>Fahimeh Hajari</b>, <b>Peter C. Rigby</b>"
+    venue: "Accepted in ICSE'26"
+    # paper_pdf: "https://arxiv.org/abs/2307.16082"
+    # poster: "/assets/publications/2023_dist_or_ann/poster.pdf"
+    # slides: "/assets/publications/2023_dist_or_ann/slide.pdf"
+    code: "https://github.com/CESEL/SofiaLearnerPlus"
+    bibtex: "/assets/publications/2026_SofiaLearnerPlus/bibtext.txt"
+    selected: y
+
   - title: "EnrichEvent: Enriching Social Data with Contextual Information for Emerging Event Extraction"
     image: "/assets/publications/2023_EnrichEvent/Framework_EnrichEvent.png"
     authors: "<b>Mohammadali Sefidi Esfahani</b>, Mohammad Akbari"
-    venue: "Available on Arxiv"
+    venue: "Published in Iran Journal of Computer Science"
     paper_pdf: "https://arxiv.org/abs/2307.16082"
     # poster: "/assets/publications/2023_dist_or_ann/poster.pdf"
     # slides: "/assets/publications/2023_dist_or_ann/slide.pdf"
