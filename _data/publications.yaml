@@ -1,7 +1,7 @@
 papers:
   - title: "The Cost vs the Benefit of Adding an Extra Code Reviewer to Mitigate Developer Turnover through Reviewer Recommenders"
     image: "/assets/publications/2026_SofiaLearnerPlus/SimulationMethod.png"
-    authors: "<b>Mohammadali Sefidi Esfahani</b>, <b>Fahimeh Hajari</b>, <b>Peter C. Rigby</b>"
+    authors: "Mohammadali Sefidi Esfahani, Fahimeh Hajari, Peter C. Rigby"
     venue: "Accepted in ICSE'26"
     paper_pdf: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov"
     # poster: "/assets/publications/2023_dist_or_ann/poster.pdf"
@@ -12,7 +12,7 @@ papers:
 
   - title: "EnrichEvent: Enriching Social Data with Contextual Information for Emerging Event Extraction"
     image: "/assets/publications/2023_EnrichEvent/Framework_EnrichEvent.png"
-    authors: "<b>Mohammadali Sefidi Esfahani</b>, Mohammad Akbari"
+    authors: "Mohammadali Sefidi Esfahani, Mohammad Akbari"
     venue: "Published in Iran Journal of Computer Science, 2025"
     paper_pdf: "https://arxiv.org/abs/2307.16082"
     # poster: "/assets/publications/2023_dist_or_ann/poster.pdf"
@@ -23,7 +23,7 @@ papers:
     
   - title: "Comparative Study on Performance of ML Models for Fall Detection in Older People"
     image: "/assets/publications/2023_Fall_Detection/Framework.png"
-    authors: "<b>Mohammadali Sefidi Esfahani</b>, Mohammad Fattahian"
+    authors: "Mohammadali Sefidi Esfahani, Mohammad Fattahian"
     venue: "Available on PrePrints.org"
     paper_pdf: "https://www.preprints.org/manuscript/202312.2027"
     # poster: "/assets/publications/2023_dist_or_ann/poster.pdf"
@@ -34,7 +34,7 @@ papers:
 
   - title: "Feature Learning for Identification of Persian Events from Twitter"
     image: "/assets/publications/2023_Feature_Engineering_for_EventDetection/Framework.png"
-    authors: "<b>Mohammadali Sefidi Esfahani</b>, Mohammad Akbari"
+    authors: "Mohammadali Sefidi Esfahani, Mohammad Akbari"
     venue: "Published in CSICC 2023"
     paper_pdf: "https://drive.google.com/file/d/1cupVjZzVa74ca-YfylT8TC3MoyCCG6NL/view?usp=sharing"
     # poster: "/assets/publications/2023_dist_or_ann/poster.pdf"
