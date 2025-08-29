@@ -7,7 +7,7 @@ papers:
     # poster: "/assets/publications/2023_dist_or_ann/poster.pdf"
     # slides: "/assets/publications/2023_dist_or_ann/slide.pdf"
     code: "https://github.com/CESEL/SofiaLearnerPlus"
-    bibtex: "/assets/publications/2026_SofiaLearnerPlus/bibtext.txt"
+    # bibtex: "/assets/publications/2026_SofiaLearnerPlus/bibtext.txt"
     selected: y
 
   - title: "EnrichEvent: Enriching Social Data with Contextual Information for Emerging Event Extraction"
