@@ -7,6 +7,6 @@
 4. Go to index.html and update the information in the different sections
 5. You can customize the layout by changing the files in the _layouts
 
-* For more details, visit [Martin Saveski's GitHub](https://github.com/msaveski/www_personal).
+For more details, visit [Martin Saveski's GitHub](https://github.com/msaveski/www_personal).
 
 
