@@ -1,12 +1,25 @@
-## Mohammadali Sefidi Esfahani (Homepage)
+# Mohammadali Esfahani — Academic Portfolio
 
-### How to use this template?
-1. Fork this repository (the name of the repository should be the same as your GitHub username)
-2. Go to _data and update the information
-3. Go to assets and upload your desired material
-4. Go to index.html and update the information in the different sections
-5. You can customize the layout by changing the files in the _layouts
+A bilingual English/Persian academic portfolio hosted with GitHub Pages.
 
-For more details, visit [Martin Saveski's GitHub](https://github.com/msaveski/www_personal).
+## Updating the website
 
+- Edit `data.js` to update text, links, education, awards, publications,
+  research interests, credentials, and personal interests.
+- Add photos, logos, publication figures, button icons, and the CV under
+  `assets/`.
+- Set `images.portrait` and `images.hobby` near the end of `data.js`.
+- Every English entry has a corresponding Persian entry.
 
+Buttons show an arrow by default. To use a custom icon for one button, add an
+`icon` property:
+
+```js
+{
+  label: "GitHub",
+  url: "https://github.com/mojtabaSefidi",
+  icon: "./assets/logos/github.svg"
+}
+```
+
+Pushing updates to the `main` branch updates the GitHub Pages website.
