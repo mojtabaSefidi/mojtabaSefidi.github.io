@@ -1,1 +1,12 @@
-
+@inproceedings{sefidi2026cost,
+  author    = {Sefidi Esfahani, Mohammadali and
+               Hajari, Fahimeh and
+               Rigby, Peter C.},
+  title     = {The Cost vs the Benefit of Adding an Extra Code Reviewer
+               to Mitigate Developer Turnover through Reviewer Recommenders},
+  booktitle = {Proceedings of the 48th IEEE/ACM International Conference
+               on Software Engineering (ICSE 2026)},
+  year      = {2026},
+  month     = apr,
+  address   = {Rio de Janeiro, Brazil}
+}

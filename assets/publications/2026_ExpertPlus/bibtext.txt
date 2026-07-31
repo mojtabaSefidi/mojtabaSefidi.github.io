@@ -1,0 +1,10 @@
+@article{sefidi2026mitigating,
+  title={Mitigating the Risk of Defects and Improving Knowledge Distribution with Code Reviewer Recommenders},
+  author={Sefidi Esfahani, Mohammadali and Rigby, Peter C},
+  journal={Proceedings of the ACM on Software Engineering},
+  volume={3},
+  number={FSE},
+  pages={160--181},
+  year={2026},
+  publisher={ACM New York, NY, USA}
+}

@@ -9,9 +9,10 @@
     />
     <meta name="color-scheme" content="light dark" />
     <title>Mohammadali Esfahani · Academic Portfolio</title>
-    <link rel="stylesheet" href="./styles.css" />
-    <script src="./data.js" defer></script>
-    <script src="./script.js" defer></script>
+    <link rel="icon" type="image/png" href="./assets/logos/favicon_website.png" />
+    <link rel="stylesheet" href="./styles.css?v=20260731-9" />
+    <script src="./data.js?v=20260731-9" defer></script>
+    <script src="./script.js?v=20260731-9" defer></script>
   </head>
   <body>
     <a class="skip-link" href="#main-content">Skip to content</a>
@@ -19,7 +20,9 @@
     <header class="site-header">
       <div class="shell header-inner">
         <a class="wordmark" href="#home" aria-label="Homepage">
-          <span class="wordmark-mark">YN</span>
+          <span class="wordmark-mark" aria-hidden="true">
+            <img src="./assets/logos/favicon_website.png" alt="" />
+          </span>
           <span data-copy="shortName">Your Name</span>
         </a>
 
@@ -69,7 +72,7 @@
         <div class="portrait-frame reveal" aria-label="Portrait placeholder">
           <img id="portrait-image" alt="" hidden />
           <div class="media-placeholder" id="portrait-placeholder">
-            <span class="placeholder-monogram">YN</span>
+            <span class="placeholder-monogram" data-copy="initials">ME</span>
             <span data-copy="placeholders.portrait">Add your portrait</span>
           </div>
           <p class="portrait-caption" data-copy="hero.location">
@@ -197,7 +200,14 @@
             the best way to reach me is by email.
           </p>
         </div>
-        <div class="button-row footer-links" data-links="primary"></div>
+        <div class="footer-actions">
+          <div class="button-row footer-links" data-links="contact"></div>
+          <div
+            class="footer-secondary"
+            data-links="profile"
+            aria-label="Academic and professional profiles"
+          ></div>
+        </div>
       </div>
       <div class="shell footer-bottom">
         <span>© <span id="current-year"></span> <span data-copy="shortName">Your Name</span></span>
