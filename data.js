@@ -196,7 +196,7 @@ window.portfolioData = {
         image: "./assets/publications/2026_ExpertPlus/FSE26_Paper_BigPicture.png",
         imageAspectRatio: "2806 / 930",
         caption:
-          "Figure 1. Developers have diverse types of knowledge, which can sometimes overlap with each other. Suppose the middle rectangle represents the knowledge required to review the given pull request. While working on this code change, the collective knowledge of the entire reviewer team and the author’s expertise are effective in identifying defects and should be considered in the Changeset Safety Ratio.",
+          "Developers have diverse types of knowledge, which can sometimes overlap with each other. Suppose the middle rectangle represents the knowledge required to review the given pull request. While working on this code change, the collective knowledge of the entire reviewer team and the author’s expertise are effective in identifying defects and should be considered in the Changeset Safety Ratio.",
         links: [
           { label: "PDF", url: "https://dl.acm.org/doi/10.1145/3797070", icon: "./assets/icons/pdf.svg" },
           { label: "Code", url: "https://github.com/mojtabaSefidi/Sofia-ExpertPlusPlus", icon: "./assets/icons/code.svg" },
@@ -213,7 +213,7 @@ window.portfolioData = {
         image: "./assets/publications/2026_SofiaLearnerPlus/ICSE26_Paper_SimulationMethod.png",
         imageAspectRatio: "2594 / 835",
         caption:
-          "Figure 1. Simulation methodology. The database contains pull request information, including authors, reviewers, and files. We determine the knowledge distribution and make recommendations based on our defined formulas for each recommender. We take the top-ranked reviewer and, depending on the recommender strategy, use seeded random replacement or add the top candidate to the review. Since alternative reviewers will have done the review in the simulation, this is fed back to the database to update the knowledge distribution for future simulated reviews. The simulation outcome metrics are all calculated relative to the actual historical reviewers.",
+          "Simulation methodology. The database contains pull request information, including authors, reviewers, and files. We determine the knowledge distribution and make recommendations based on our defined formulas for each recommender. We take the top-ranked reviewer and, depending on the recommender strategy, use seeded random replacement or add the top candidate to the review. Since alternative reviewers will have done the review in the simulation, this is fed back to the database to update the knowledge distribution for future simulated reviews. The simulation outcome metrics are all calculated relative to the actual historical reviewers.",
         links: [
           { label: "PDF", url: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov", icon: "./assets/icons/pdf.svg" },
           { label: "Code", url: "https://github.com/mojtabaSefidi/Sofia-LearnerPlus", icon: "./assets/icons/code.svg" },
@@ -229,7 +229,7 @@ window.portfolioData = {
         image: "./assets/publications/2023_EnrichEvent/EnrichEvent_Paper_Framework.png",
         imageAspectRatio: "1782 / 410",
         caption:
-          "Figure 1. An overview of the functionality of our proposed framework, EnrichEvent. The framework processes message blocks in batches corresponding to the incoming social stream. First, the Trending Data Extraction module filters out pointless tweets. Next, the Contextual Knowledge Enhancement component extracts Named Entities and Hashtags from the tweets and builds their representation matrices. Then, the Event Clustering module categorizes the extracted entities into clusters based on their lexical, structural, and contextual representation. Finally, the Event Chain Formation module connects related clusters across consecutive message blocks to form event chains, and the Storage component saves each event’s information as a JSON file in the database.",
+          "An overview of the functionality of our proposed framework, EnrichEvent. The framework processes message blocks in batches corresponding to the incoming social stream. First, the Trending Data Extraction module filters out pointless tweets. Next, the Contextual Knowledge Enhancement component extracts Named Entities and Hashtags from the tweets and builds their representation matrices. Then, the Event Clustering module categorizes the extracted entities into clusters based on their lexical, structural, and contextual representation. Finally, the Event Chain Formation module connects related clusters across consecutive message blocks to form event chains, and the Storage component saves each event’s information as a JSON file in the database.",
         links: [
           { label: "PDF", url: "https://link.springer.com/article/10.1007/s42044-025-00284-2", icon: "./assets/icons/pdf.svg" },
           { label: "Code", url: "https://github.com/mojtabaSefidi/EnrichEvent", icon: "./assets/icons/code.svg" },
@@ -461,7 +461,7 @@ window.portfolioData = {
         image: "./assets/publications/2026_ExpertPlus/FSE26_Paper_BigPicture.png",
         imageAspectRatio: "2806 / 930",
         caption:
-          "Figure 1. Developers have diverse types of knowledge, which can sometimes overlap with each other. Suppose the middle rectangle represents the knowledge required to review the given pull request. While working on this code change, the collective knowledge of the entire reviewer team and the author’s expertise are effective in identifying defects and should be considered in the Changeset Safety Ratio.",
+          "Developers have diverse types of knowledge, which can sometimes overlap with each other. Suppose the middle rectangle represents the knowledge required to review the given pull request. While working on this code change, the collective knowledge of the entire reviewer team and the author’s expertise are effective in identifying defects and should be considered in the Changeset Safety Ratio.",
         links: [
           { label: "PDF", url: "https://dl.acm.org/doi/10.1145/3797070", icon: "./assets/icons/pdf.svg" },
           { label: "کد", url: "https://github.com/mojtabaSefidi/Sofia-ExpertPlusPlus", icon: "./assets/icons/code.svg" },
@@ -477,7 +477,7 @@ window.portfolioData = {
         image: "./assets/publications/2026_SofiaLearnerPlus/ICSE26_Paper_SimulationMethod.png",
         imageAspectRatio: "2594 / 835",
         caption:
-          "Figure 1. Simulation methodology. The database contains pull request information, including authors, reviewers, and files. We determine the knowledge distribution and make recommendations based on our defined formulas for each recommender. We take the top-ranked reviewer and, depending on the recommender strategy, use seeded random replacement or add the top candidate to the review. Since alternative reviewers will have done the review in the simulation, this is fed back to the database to update the knowledge distribution for future simulated reviews. The simulation outcome metrics are all calculated relative to the actual historical reviewers.",
+          "Simulation methodology. The database contains pull request information, including authors, reviewers, and files. We determine the knowledge distribution and make recommendations based on our defined formulas for each recommender. We take the top-ranked reviewer and, depending on the recommender strategy, use seeded random replacement or add the top candidate to the review. Since alternative reviewers will have done the review in the simulation, this is fed back to the database to update the knowledge distribution for future simulated reviews. The simulation outcome metrics are all calculated relative to the actual historical reviewers.",
         links: [
           { label: "PDF", url: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov", icon: "./assets/icons/pdf.svg" },
           { label: "کد", url: "https://github.com/mojtabaSefidi/Sofia-LearnerPlus", icon: "./assets/icons/code.svg" },
@@ -493,7 +493,7 @@ window.portfolioData = {
         image: "./assets/publications/2023_EnrichEvent/EnrichEvent_Paper_Framework.png",
         imageAspectRatio: "1782 / 410",
         caption:
-          "Figure 1. An overview of the functionality of our proposed framework, EnrichEvent. The framework processes message blocks in batches corresponding to the incoming social stream. First, the Trending Data Extraction module filters out pointless tweets. Next, the Contextual Knowledge Enhancement component extracts Named Entities and Hashtags from the tweets and builds their representation matrices. Then, the Event Clustering module categorizes the extracted entities into clusters based on their lexical, structural, and contextual representation. Finally, the Event Chain Formation module connects related clusters across consecutive message blocks to form event chains, and the Storage component saves each event’s information as a JSON file in the database.",
+          "An overview of the functionality of our proposed framework, EnrichEvent. The framework processes message blocks in batches corresponding to the incoming social stream. First, the Trending Data Extraction module filters out pointless tweets. Next, the Contextual Knowledge Enhancement component extracts Named Entities and Hashtags from the tweets and builds their representation matrices. Then, the Event Clustering module categorizes the extracted entities into clusters based on their lexical, structural, and contextual representation. Finally, the Event Chain Formation module connects related clusters across consecutive message blocks to form event chains, and the Storage component saves each event’s information as a JSON file in the database.",
         links: [
           { label: "PDF", url: "https://link.springer.com/article/10.1007/s42044-025-00284-2", icon: "./assets/icons/pdf.svg" },
           { label: "کد", url: "https://github.com/mojtabaSefidi/EnrichEvent", icon: "./assets/icons/code.svg" },
