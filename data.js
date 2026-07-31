@@ -54,7 +54,7 @@ window.portfolioData = {
     },
     research: {
       statement:
-        "My research interests include software engineering, reviewer recommendation systems, mining software repositories, developer turnover, machine learning, and natural language processing. I am particularly interested in building data-driven tools that improve collaboration and decision-making in software teams.",
+        "My current research explores how code reviewer recommendation systems can mitigate the risks associated with developer turnover while improving software quality. I develop reviewer recommendation strategies that reduce defect risk and foster effective knowledge distribution across software development teams, making projects more resilient to developer turnover.",
     },
     personal: {
       description:
@@ -155,30 +155,37 @@ window.portfolioData = {
         description: "Valued at CA$48,888 (unable to accept due to visa delays)",
         institution: "Concordia University, Montreal, Canada",
         date: "2026",
+        logo: "./assets/logos/concordia_logo.png",
+
       },
       {
         title: "Concordia University Graduate Doctoral Fellowship",
         description: "Valued at CA$56,000 (unable to accept due to visa delays)",
         institution: "Concordia University, Montreal, Canada",
         date: "2025",
+        logo: "./assets/logos/concordia_logo.png",
+
       },
       {
         title: "Concordia University Split Graduate Fellowship GCS",
         description: "Valued at CA$28,000 (unable to accept due to visa delays)",
         institution: "Concordia University, Montreal, Canada",
         date: "2024",
+        logo: "./assets/logos/concordia_logo.png",
       },
       {
         title: "1st-Ranked Student",
         description: "Among the MSc. computer science students (2021 entrance)",
         institution: "Amirkabir University of Technology, Tehran, Iran",
         date: "2023",
+        logo: "./assets/logos/aut_logo.png",
       },
       {
         title: "1st-Ranked Student",
         description: "Among the BSc. computer science students (2017 entrance)",
         institution: "Kharazmi University, Tehran, Iran",
         date: "2021",
+        logo: "./assets/logos/kharazmi_logo.png",
       },
     ],
     publications: [
@@ -286,7 +293,7 @@ window.portfolioData = {
   fa: {
     initials: "ME",
     shortName: "محمدعلی اصفهانی",
-    name: "محمدعلی سفیدی اصفهانی",
+    name: "محمدعلی اصفهانی",
     nav: {
       updates: "تازه‌ها",
       education: "تحصیلات",
@@ -326,15 +333,15 @@ window.portfolioData = {
     },
     research: {
       statement:
-        "علایق پژوهشی من شامل مهندسی نرم‌افزار، سامانه‌های پیشنهاددهنده بازبین کد، کاوش مخازن نرم‌افزاری، جابه‌جایی توسعه‌دهندگان، یادگیری ماشین و پردازش زبان طبیعی است. به‌طور ویژه به ساخت ابزارهای داده‌محور برای بهبود همکاری و تصمیم‌گیری در تیم‌های نرم‌افزاری علاقه‌مندم.",
+        "تمرکز پژوهش‌های من بر طراحی و ارزیابی سامانه‌های پیشنهاددهنده بازبین کد با هدف کاهش ریسک‌های ناشی از خروج توسعه‌دهندگان از پروژه و بهبود کیفیت نرم‌افزار است. به‌طور مشخص، راهبردهایی برای توصیه و تخصیص بازبین کد ارائه می‌کنم که با کاهش ریسک بروز نقص‌های نرم‌افزاری و تسهیل توزیع مؤثر دانش در میان اعضای تیم، وابستگی پروژه به افراد کلیدی را کاهش داده و تاب‌آوری تیم را در برابر خروج توسعه‌دهندگان افزایش می‌دهند."    
     },
     personal: {
       description:
         "کمی از علایق خود بیرون از محیط کار بنویسید؛ کتاب، موسیقی، سفر، ورزش، فعالیت داوطلبانه یا هر چیزی که این صفحه را شخصی‌تر می‌کند.",
     },
     footer: {
-      eyebrow: "در ارتباط باشیم",
-      title: "اگر فکر می‌کنید می‌توانیم همکاری مؤثری داشته باشیم، خوشحال می‌شوم در ارتباط باشیم.",
+      // eyebrow: "در ارتباط باشیم",
+      title: "خوشحال میشم باهم در ارتباط باشیم.",
       // description:
       //   "برای همکاری پژوهشی، سخنرانی یا پیشنهادهای حرفه‌ای، بهترین راه ارتباط با من ایمیل است.",
       backToTop: "بازگشت به بالا ↑",
@@ -364,7 +371,7 @@ window.portfolioData = {
       // },
       {
         date: "مرداد ۱۴۰۵",
-        title: "انصراف از دوره دکتری مهندسی نرم‌افزار در دانشگاه کونگوردیا",
+        title: "انصراف از دوره دکتری مهندسی نرم‌افزار در دانشگاه کونکوردیا",
         description: "به دلیل عدم دریافت به موقع ویزا",
         link: "#education",
       },
@@ -415,30 +422,35 @@ window.portfolioData = {
         description: "به ارزش ۴۸٬۸۸۸ دلار کانادا (به‌دلیل تأخیرهای ویزا امکان پذیرش آن فراهم نشد)",
         institution: "دانشگاه کنکوردیا، مونترال، کانادا",
         date: "۱۴۰۵",
+        logo: "./assets/logos/concordia_logo.png",
       },
       {
         title: "بورسیه دکتری تحصیلات تکمیلی دانشگاه کنکوردیا",
         description: "به ارزش ۵۶٬۰۰۰ دلار کانادا (به‌دلیل تأخیرهای ویزا امکان پذیرش آن فراهم نشد)",
         institution: "دانشگاه کنکوردیا، مونترال، کانادا",
         date: "۱۴۰۴",
+        logo: "./assets/logos/concordia_logo.png",
       },
       {
         title: "بورسیه تحصیلات تکمیلی مشترک GCS دانشگاه کنکوردیا",
         description: "به ارزش ۲۸٬۰۰۰ دلار کانادا (به‌دلیل تأخیرهای ویزا امکان پذیرش آن فراهم نشد)",
         institution: "دانشگاه کنکوردیا، مونترال، کانادا",
         date: "۱۴۰۳",
+        logo: "./assets/logos/concordia_logo.png",
       },
       {
         title: "دانشجوی رتبه اول",
         description: "در میان دانشجویان کارشناسی ارشد علوم کامپیوتر ورودی ۱۴۰۰",
         institution: "دانشگاه صنعتی امیرکبیر، تهران، ایران",
         date: "۱۴۰۲",
+        logo: "./assets/logos/aut_logo.png",
       },
       {
         title: "دانشجوی رتبه اول",
         description: "در میان دانشجویان کارشناسی علوم کامپیوتر ورودی ۱۳۹۶",
         institution: "دانشگاه خوارزمی، تهران، ایران",
         date: "۱۴۰۰",
+        logo: "./assets/logos/kharazmi_logo.png",
       },
     ],
     publications: [
@@ -520,6 +532,6 @@ window.portfolioData = {
 
   images: {
     portrait: "./assets/profile-pics/profile_photo_esfahani.jpg",
-    hobby: "",
+    hobby: "./assets/profile-pics/BeyondResearch.jpeg",
   },
 };
