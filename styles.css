@@ -236,6 +236,8 @@ html[dir="rtl"] .hero h1 {
   margin: 34px 0;
   color: var(--muted);
   font-size: clamp(1rem, 1.5vw, 1.2rem);
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .button-row {
@@ -266,7 +268,8 @@ html[dir="rtl"] .hero h1 {
   color: var(--accent);
 }
 
-.link-button.has-custom-icon::after {
+.link-button.has-custom-icon::after,
+.link-button.no-indicator::after {
   content: none;
 }
 
@@ -502,6 +505,12 @@ html[data-theme="dark"] .logo-box {
   padding-top: 20px;
 }
 
+.award-card h3,
+.award-card > p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .publication-list {
   display: grid;
   gap: clamp(72px, 10vw, 120px);
@@ -561,6 +570,8 @@ html[data-theme="dark"] .logo-box {
   color: #3f4542;
   font-size: clamp(0.82rem, 1.15vw, 0.96rem);
   line-height: 1.65;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .publication-copy h3 {
@@ -576,10 +587,14 @@ html[data-theme="dark"] .logo-box {
   text-align: center;
 }
 
-html[dir="rtl"] .publication-copy,
-html[dir="rtl"] .publication-media figcaption {
+html[dir="rtl"] .publication-copy {
   direction: ltr;
   text-align: left;
+}
+
+html[dir="rtl"] .publication-media figcaption {
+  direction: ltr;
+  text-align: justify;
 }
 
 .publication-authors {
@@ -603,7 +618,7 @@ html[dir="rtl"] .publication-media figcaption {
 .research-layout {
   display: grid;
   grid-template-columns: minmax(250px, 0.7fr) minmax(300px, 1.3fr);
-  gap: clamp(60px, 10vw, 150px);
+  gap: clamp(32px, 5vw, 72px);
 }
 
 .research-layout .section-index {
@@ -615,6 +630,8 @@ html[dir="rtl"] .publication-media figcaption {
   font-size: clamp(1.25rem, 2.4vw, 2rem);
   line-height: 1.55;
   letter-spacing: -0.025em;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .credential-list {
@@ -692,6 +709,8 @@ html[data-theme="dark"] .personal-card {
 .personal-copy p:last-child {
   margin: 26px 0 0;
   opacity: 0.78;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .site-footer {

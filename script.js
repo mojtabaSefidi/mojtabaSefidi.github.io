@@ -29,8 +29,8 @@
     list(links)
       .filter(({ label, url }) => hasValue(label) && hasValue(url))
       .map(
-        ({ label, url, icon }) =>
-          `<a class="link-button${icon ? " has-custom-icon" : ""}" href="${safeLink(url)}" ${
+        ({ label, url, icon, indicator }) =>
+          `<a class="link-button${icon ? " has-custom-icon" : ""}${indicator === false ? " no-indicator" : ""}" href="${safeLink(url)}" ${
             url?.startsWith("mailto:") ? "" : 'target="_blank" rel="noreferrer"'
           }>${label}${
             icon

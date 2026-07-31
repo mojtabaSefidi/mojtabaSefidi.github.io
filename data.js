@@ -19,8 +19,8 @@ window.portfolioData = {
       eyebrow: "AI for SE Researcher",
       // eyebrow: "AI for SE Researcher · Sharif University of Technology",
       description:
-        "I am a computer science researcher working at the intersection of software engineering and artificial intelligence, with a focus on intelligent tools that support developers and software teams.",
-      location: "PhD student in Computer Science, Tehran, Iran.",
+        "I am a computer science researcher exploring how artificial intelligence can improve software engineering through intelligent knowledge management, decision support, and data-driven software development practices.",
+      location: "PhD student in Computer Science",
     },
     placeholders: {
       portrait: "Add your portrait",
@@ -62,9 +62,9 @@ window.portfolioData = {
     },
     footer: {
       eyebrow: "Let’s connect",
-      title: "Open to thoughtful conversations.",
-      description:
-        "For research collaborations, speaking, or professional inquiries, the best way to reach me is by email.",
+      title: "Open to Collaborations",
+      // description:
+      //   "For research collaborations, speaking, or professional inquiries, the best way to reach me is by email.",
       backToTop: "Back to top ↑",
     },
     labels: {
@@ -77,35 +77,35 @@ window.portfolioData = {
       openFigure: "Open full-size figure",
     },
     links: [
-      { label: "Email", url: "mailto:mohammadali.sefidi@gmail.com", kind: "contact" },
-      { label: "Google Scholar", url: "https://scholar.google.com/citations?user=vsiWWesAAAAJ&hl", kind: "profile" },
-      { label: "LinkedIn", url: "https://www.linkedin.com/in/mohammadali-esfahani/", kind: "contact" },
-      { label: "GitHub", url: "https://github.com/mojtabaSefidi", kind: "profile" },
-      { label: "CV", url: "./assets/cv/Mohammadali_Esfahani_CV.pdf", kind: "profile" },
+      { label: "Email", url: "mailto:mohammadali.sefidi@gmail.com", kind: "contact", icon: "./assets/icons/email.svg" },
+      { label: "Google Scholar", url: "https://scholar.google.com/citations?user=vsiWWesAAAAJ&hl", kind: "profile", icon: "./assets/icons/google_scholar.svg" },
+      { label: "LinkedIn", url: "https://www.linkedin.com/in/mohammadali-esfahani/", kind: "contact", icon: "./assets/icons/linkedin.svg" },
+      { label: "GitHub", url: "https://github.com/mojtabaSefidi", kind: "profile", icon: "./assets/icons/github.svg" },
+      { label: "CV", url: "./assets/cv/Mohammadali_Esfahani_CV.pdf", kind: "profile", indicator: false },
     ],
     updates: [
-      {
-        date: "September 2026",
-        title: "Start PhD in Computer Science",
-        description: "I am Glad to start my PhD in CS at Sharif University of Technology 😊",
-        link: "#education",
-      },
+      // {
+      //   date: "September 2026",
+      //   title: "Start PhD in Computer Science",
+      //   description: "I am Glad to start my PhD in CS at Sharif University of Technology 😊",
+      //   link: "#education",
+      // },
       {
         date: "Augest 2026",
-        title: "Whithraw from my PhD in Software Engineering",
-        description: "I Whithraw from my PhD program at Concordia Uinversity due to visa delays",
+        title: "Whithraw from my PhD program at Concordia University",
+        description: "Due to visa delays",
         link: "#education",
       },
       {
         date: "July 2026",
-        title: "Our Paper Presented at FSE'26 Confrance, Montreal, Canada",
-        description: "Our work studies the cost and benefit of adding an extra code reviewer to mitigate developer turnover.",
+        title: "Paper Presentation at FSE 2026 Confrance 🎉",
+        description: "Mitigating the Risk of Defects and Improving Knowledge Distribution with Code Reviewer Recommenders",
         link: "https://conf.researchr.org/details/fse-2026/fse-2026-research-papers/24/Mitigating-the-Risk-of-Defects-and-Improving-Knowledge-Distribution-with-Code-Reviewe",
       },
       {
         date: "April 2026",
-        title: "Our Paper Presented at ICSE'26 Confrance, Rio, Brazil",
-        description: "Our work studies the cost and benefit of adding an extra code reviewer to mitigate developer turnover.",
+        title: "Paper Presentation at ICSE 2026 Confrance 🎉",
+        description: "The Cost vs the Benefit of Adding an Extra Code Reviewer to Mitigate Developer Turnover through Reviewer Recommenders",
         link: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov",
       }
     ],
@@ -122,16 +122,16 @@ window.portfolioData = {
       // },
       {
         degree: "PhD in Software Engineering",
-        university: "Concordia University",
+        university: "Concordia University, Montreal, Canada",
         supervisor: "Professor Peter Rigby",
-        thesis: "SE Knowledge Management Strategies",
+        thesis: "Intelligent SE Knowledge Management Strategies",
         // gpa: "Add cumulative GPA",
         date: "September 2024 — Augest 2026",
         logo: "./assets/logos/concordia_logo.png",
       },
       {
         degree: "MSc. in Computer Science",
-        university: "Amirkabir University of Technology",
+        university: "Amirkabir University of Technology, Tehran, Iran",
         supervisor: "Dr. Mohammad Akbari",
         thesis: "Unspecified Event Detection from Twitter",
         gpa: "19.62",
@@ -140,7 +140,7 @@ window.portfolioData = {
       },
       {
         degree: "BSc. in Computer Science",
-        university: "Kharazmi University",
+        university: "Kharazmi University, Tehran, Iran",
         supervisor: "Dr. Mohammad Soltanian",
         thesis: "Fall Detection in Elderly People with ML models",
         gpa: "18.26",
@@ -191,10 +191,10 @@ window.portfolioData = {
         caption:
           "Figure 1. Developers have diverse types of knowledge, which can sometimes overlap with each other. Suppose the middle rectangle represents the knowledge required to review the given pull request. While working on this code change, the collective knowledge of the entire reviewer team and the author’s expertise are effective in identifying defects and should be considered in the Changeset Safety Ratio.",
         links: [
-          { label: "PDF", url: "https://dl.acm.org/doi/10.1145/3797070" },
-          { label: "Code", url: "https://github.com/mojtabaSefidi/Sofia-ExpertPlusPlus" },
-          { label: "Data", url: "https://figshare.com/s/e62f52f5550d0f373815" },
-          { label: "Conference", url: "https://conf.researchr.org/details/fse-2026/fse-2026-research-papers/24/Mitigating-the-Risk-of-Defects-and-Improving-Knowledge-Distribution-with-Code-Reviewe" },
+          { label: "PDF", url: "https://dl.acm.org/doi/10.1145/3797070", icon: "./assets/icons/pdf.svg" },
+          { label: "Code", url: "https://github.com/mojtabaSefidi/Sofia-ExpertPlusPlus", icon: "./assets/icons/code.svg" },
+          { label: "Data", url: "https://figshare.com/s/e62f52f5550d0f373815", icon: "./assets/icons/database.svg" },
+          { label: "Conference", url: "https://conf.researchr.org/details/fse-2026/fse-2026-research-papers/24/Mitigating-the-Risk-of-Defects-and-Improving-Knowledge-Distribution-with-Code-Reviewe", icon: "./assets/icons/conference.svg" },
           { label: "BibTeX", url: "./assets/publications/2026_ExpertPlus/bibtext.txt" },
 
         ],
@@ -208,10 +208,10 @@ window.portfolioData = {
         caption:
           "Figure 1. Simulation methodology. The database contains pull request information, including authors, reviewers, and files. We determine the knowledge distribution and make recommendations based on our defined formulas for each recommender. We take the top-ranked reviewer and, depending on the recommender strategy, use seeded random replacement or add the top candidate to the review. Since alternative reviewers will have done the review in the simulation, this is fed back to the database to update the knowledge distribution for future simulated reviews. The simulation outcome metrics are all calculated relative to the actual historical reviewers.",
         links: [
-          { label: "PDF", url: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov" },
-          { label: "Code", url: "https://github.com/mojtabaSefidi/Sofia-LearnerPlus" },
-          { label: "Data", url: "https://figshare.com/s/b79fc69acad8e11be31a" },
-          { label: "Conference", url: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov" },
+          { label: "PDF", url: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov", icon: "./assets/icons/pdf.svg" },
+          { label: "Code", url: "https://github.com/mojtabaSefidi/Sofia-LearnerPlus", icon: "./assets/icons/code.svg" },
+          { label: "Data", url: "https://figshare.com/s/b79fc69acad8e11be31a", icon: "./assets/icons/database.svg" },
+          { label: "Conference", url: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov", icon: "./assets/icons/conference.svg" },
           { label: "BibTeX", url: "./assets/publications/2026_ExpertPlus/bibtext.txt" },
         ],
       },
@@ -224,9 +224,9 @@ window.portfolioData = {
         caption:
           "Figure 1. An overview of the functionality of our proposed framework, EnrichEvent. The framework processes message blocks in batches corresponding to the incoming social stream. First, the Trending Data Extraction module filters out pointless tweets. Next, the Contextual Knowledge Enhancement component extracts Named Entities and Hashtags from the tweets and builds their representation matrices. Then, the Event Clustering module categorizes the extracted entities into clusters based on their lexical, structural, and contextual representation. Finally, the Event Chain Formation module connects related clusters across consecutive message blocks to form event chains, and the Storage component saves each event’s information as a JSON file in the database.",
         links: [
-          { label: "PDF", url: "https://link.springer.com/article/10.1007/s42044-025-00284-2" },
-          { label: "Code", url: "https://github.com/mojtabaSefidi/EnrichEvent" },
-          { label: "Data", url: "https://github.com/mojtabaSefidi/EnrichEvent" },
+          { label: "PDF", url: "https://link.springer.com/article/10.1007/s42044-025-00284-2", icon: "./assets/icons/pdf.svg" },
+          { label: "Code", url: "https://github.com/mojtabaSefidi/EnrichEvent", icon: "./assets/icons/code.svg" },
+          { label: "Data", url: "https://github.com/mojtabaSefidi/EnrichEvent", icon: "./assets/icons/database.svg" },
           { label: "BibTeX", url: "./assets/publications/2023_EnrichEvent/bibtext.txt" },
         ],
       },
@@ -296,8 +296,8 @@ window.portfolioData = {
     hero: {
       eyebrow: "پژوهشگر هوش مصنوعی برای مهندسی نرم‌افزار",
       description:
-        "پژوهشگر علوم کامپیوتر در تقاطع مهندسی نرم‌افزار و هوش مصنوعی هستم و بر ابزارهای هوشمند برای پشتیبانی از توسعه‌دهندگان و تیم‌های نرم‌افزاری تمرکز دارم.",
-      location: "دانشجوی دکتری علوم کامپیوتر، تهران، ایران.",
+        "من پژوهشگر علوم کامپیوتر هستم و در زمینه کاربرد هوش مصنوعی در مهندسی نرم‌افزار فعالیت می‌کنم. تمرکز پژوهش‌هایم بر این است که با استفاده از هوش مصنوعی، مدیریت دانش در پروژه‌های نرم‌افزاری را هوشمندتر کنم، تصمیم‌گیری را بهبود دهم و فرایندهای توسعه نرم‌افزار را کارآمدتر و قابل‌اعتمادتر سازم.",
+      location: "دانشجوی دکتری علوم کامپیوتر",
     },
     placeholders: {
       portrait: "تصویر خود را اضافه کنید",
@@ -334,9 +334,9 @@ window.portfolioData = {
     },
     footer: {
       eyebrow: "در ارتباط باشیم",
-      title: "از گفت‌وگوهای سازنده استقبال می‌کنم.",
-      description:
-        "برای همکاری پژوهشی، سخنرانی یا پیشنهادهای حرفه‌ای، بهترین راه ارتباط با من ایمیل است.",
+      title: "اگر فکر می‌کنید می‌توانیم همکاری مؤثری داشته باشیم، خوشحال می‌شوم در ارتباط باشیم.",
+      // description:
+      //   "برای همکاری پژوهشی، سخنرانی یا پیشنهادهای حرفه‌ای، بهترین راه ارتباط با من ایمیل است.",
       backToTop: "بازگشت به بالا ↑",
     },
     labels: {
@@ -349,50 +349,50 @@ window.portfolioData = {
       openFigure: "مشاهده تصویر در اندازه کامل",
     },
     links: [
-      { label: "ایمیل", url: "mailto:mohammadali.sefidi@gmail.com", kind: "contact" },
-      { label: "گوگل اسکالر", url: "https://scholar.google.com/citations?user=vsiWWesAAAAJ&hl", kind: "profile" },
-      { label: "لینکدین", url: "https://www.linkedin.com/in/mohammadali-esfahani/", kind: "contact" },
-      { label: "گیت‌هاب", url: "https://github.com/mojtabaSefidi", kind: "profile" },
-      { label: "رزومه", url: "./assets/cv/Mohammadali_Esfahani_CV.pdf", kind: "profile" },
+      { label: "ایمیل", url: "mailto:mohammadali.sefidi@gmail.com", kind: "contact", icon: "./assets/icons/email.svg" },
+      { label: "گوگل اسکالر", url: "https://scholar.google.com/citations?user=vsiWWesAAAAJ&hl", kind: "profile", icon: "./assets/icons/google_scholar.svg" },
+      { label: "لینکدین", url: "https://www.linkedin.com/in/mohammadali-esfahani/", kind: "contact", icon: "./assets/icons/linkedin.svg" },
+      { label: "گیت‌هاب", url: "https://github.com/mojtabaSefidi", kind: "profile", icon: "./assets/icons/github.svg" },
+      { label: "رزومه", url: "./assets/cv/Mohammadali_Esfahani_CV.pdf", kind: "profile", indicator: false },
     ],
     updates: [
-      {
-        date: "شهریور ۱۴۰۵",
-        title: "آغاز دوره دکتری علوم کامپیوتر",
-        description: "خوشحالم که دوره دکتری علوم کامپیوتر خود را در دانشگاه صنعتی شریف آغاز می‌کنم 😊",
-        link: "#education",
-      },
+      // {
+      //   date: "شهریور ۱۴۰۵",
+      //   title: "آغاز دوره دکتری علوم کامپیوتر",
+      //   description: "خوشحالم که دوره دکتری علوم کامپیوتر خود را در دانشگاه صنعتی شریف آغاز می‌کنم 😊",
+      //   link: "#education",
+      // },
       {
         date: "مرداد ۱۴۰۵",
-        title: "انصراف از دوره دکتری مهندسی نرم‌افزار",
-        description: "به‌دلیل تأخیرهای ویزا، از دوره دکتری خود در دانشگاه کنکوردیا انصراف دادم.",
+        title: "انصراف از دوره دکتری مهندسی نرم‌افزار در دانشگاه کونگوردیا",
+        description: "به دلیل عدم دریافت به موقع ویزا",
         link: "#education",
       },
       {
         date: "تیر ۱۴۰۵",
-        title: "ارائه مقاله ما در کنفرانس FSE 2026، مونترال، کانادا",
-        description: "این پژوهش هزینه و مزیت افزودن یک بازبین کد اضافی برای کاهش اثر جابه‌جایی توسعه‌دهندگان را بررسی می‌کند.",
+        title: "ارائه مقاله در کنفرانس FSE 2026 🎉",
+        description: "Mitigating the Risk of Defects and Improving Knowledge Distribution with Code Reviewer Recommenders",
         link: "https://conf.researchr.org/details/fse-2026/fse-2026-research-papers/24/Mitigating-the-Risk-of-Defects-and-Improving-Knowledge-Distribution-with-Code-Reviewe",
       },
       {
         date: "فروردین ۱۴۰۵",
-        title: "ارائه مقاله ما در کنفرانس ICSE 2026، ریو، برزیل",
-        description: "این پژوهش هزینه و مزیت افزودن یک بازبین کد اضافی برای کاهش اثر جابه‌جایی توسعه‌دهندگان را بررسی می‌کند.",
+        title: "ارائه مقاله در کنفرانس ICSE 2026 🎉",
+        description: "The Cost vs the Benefit of Adding an Extra Code Reviewer to Mitigate Developer Turnover through Reviewer Recommenders",        link: "https://conf.researchr.org/details/fse-2026/fse-2026-research-papers/24/Mitigating-the-Risk-of-Defects-and-Improving-Knowledge-Distribution-with-Code-Reviewe",
         link: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov",
       },
     ],
     education: [
       {
         degree: "دکتری مهندسی نرم‌افزار",
-        university: "دانشگاه کنکوردیا",
-        supervisor: "پروفسور پیتر ریگبی",
-        thesis: "راهبردهای مدیریت دانش در مهندسی نرم‌افزار",
+        university: "دانشگاه کنکوردیا، مونترال، کانادا",
+        supervisor: "Professor Peter Rigby",
+        thesis: "راهبردهای مدیریت هوشمند دانش در مهندسی نرم‌افزار",
         date: "شهریور ۱۴۰۳ — مرداد ۱۴۰۵",
         logo: "./assets/logos/concordia_logo.png",
       },
       {
         degree: "کارشناسی ارشد علوم کامپیوتر",
-        university: "دانشگاه صنعتی امیرکبیر",
+        university: "دانشگاه صنعتی امیرکبیر، تهران، ایران",
         supervisor: "دکتر محمد اکبری",
         thesis: "تشخیص رویدادهای نامشخص از توییتر",
         gpa: "۱۹٫۶۲",
@@ -401,7 +401,7 @@ window.portfolioData = {
       },
       {
         degree: "کارشناسی علوم کامپیوتر",
-        university: "دانشگاه خوارزمی",
+        university: "دانشگاه خوارزمی، تهران، ایران",
         supervisor: "دکتر محمد سلطانیان",
         thesis: "تشخیص سقوط سالمندان با استفاده از مدل‌های یادگیری ماشین",
         gpa: "۱۸٫۲۶",
@@ -451,10 +451,10 @@ window.portfolioData = {
         caption:
           "Figure 1. Developers have diverse types of knowledge, which can sometimes overlap with each other. Suppose the middle rectangle represents the knowledge required to review the given pull request. While working on this code change, the collective knowledge of the entire reviewer team and the author’s expertise are effective in identifying defects and should be considered in the Changeset Safety Ratio.",
         links: [
-          { label: "PDF", url: "https://dl.acm.org/doi/10.1145/3797070" },
-          { label: "کد", url: "https://github.com/mojtabaSefidi/Sofia-ExpertPlusPlus" },
-          { label: "داده", url: "https://figshare.com/s/e62f52f5550d0f373815" },
-          { label: "کنفرانس", url: "https://conf.researchr.org/details/fse-2026/fse-2026-research-papers/24/Mitigating-the-Risk-of-Defects-and-Improving-Knowledge-Distribution-with-Code-Reviewe" },
+          { label: "PDF", url: "https://dl.acm.org/doi/10.1145/3797070", icon: "./assets/icons/pdf.svg" },
+          { label: "کد", url: "https://github.com/mojtabaSefidi/Sofia-ExpertPlusPlus", icon: "./assets/icons/code.svg" },
+          { label: "داده", url: "https://figshare.com/s/e62f52f5550d0f373815", icon: "./assets/icons/database.svg" },
+          { label: "کنفرانس", url: "https://conf.researchr.org/details/fse-2026/fse-2026-research-papers/24/Mitigating-the-Risk-of-Defects-and-Improving-Knowledge-Distribution-with-Code-Reviewe", icon: "./assets/icons/conference.svg" },
           { label: "BibTeX", url: "./assets/publications/2026_ExpertPlus/bibtext.txt" },
         ],
       },
@@ -467,10 +467,10 @@ window.portfolioData = {
         caption:
           "Figure 1. Simulation methodology. The database contains pull request information, including authors, reviewers, and files. We determine the knowledge distribution and make recommendations based on our defined formulas for each recommender. We take the top-ranked reviewer and, depending on the recommender strategy, use seeded random replacement or add the top candidate to the review. Since alternative reviewers will have done the review in the simulation, this is fed back to the database to update the knowledge distribution for future simulated reviews. The simulation outcome metrics are all calculated relative to the actual historical reviewers.",
         links: [
-          { label: "PDF", url: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov" },
-          { label: "کد", url: "https://github.com/mojtabaSefidi/Sofia-LearnerPlus" },
-          { label: "داده", url: "https://figshare.com/s/b79fc69acad8e11be31a" },
-          { label: "کنفرانس", url: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov" },
+          { label: "PDF", url: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov", icon: "./assets/icons/pdf.svg" },
+          { label: "کد", url: "https://github.com/mojtabaSefidi/Sofia-LearnerPlus", icon: "./assets/icons/code.svg" },
+          { label: "داده", url: "https://figshare.com/s/b79fc69acad8e11be31a", icon: "./assets/icons/database.svg" },
+          { label: "کنفرانس", url: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov", icon: "./assets/icons/conference.svg" },
           { label: "BibTeX", url: "./assets/publications/2026_ExpertPlus/bibtext.txt" },
         ],
       },
@@ -483,9 +483,9 @@ window.portfolioData = {
         caption:
           "Figure 1. An overview of the functionality of our proposed framework, EnrichEvent. The framework processes message blocks in batches corresponding to the incoming social stream. First, the Trending Data Extraction module filters out pointless tweets. Next, the Contextual Knowledge Enhancement component extracts Named Entities and Hashtags from the tweets and builds their representation matrices. Then, the Event Clustering module categorizes the extracted entities into clusters based on their lexical, structural, and contextual representation. Finally, the Event Chain Formation module connects related clusters across consecutive message blocks to form event chains, and the Storage component saves each event’s information as a JSON file in the database.",
         links: [
-          { label: "PDF", url: "https://link.springer.com/article/10.1007/s42044-025-00284-2" },
-          { label: "کد", url: "https://github.com/mojtabaSefidi/EnrichEvent" },
-          { label: "داده", url: "https://github.com/mojtabaSefidi/EnrichEvent" },
+          { label: "PDF", url: "https://link.springer.com/article/10.1007/s42044-025-00284-2", icon: "./assets/icons/pdf.svg" },
+          { label: "کد", url: "https://github.com/mojtabaSefidi/EnrichEvent", icon: "./assets/icons/code.svg" },
+          { label: "داده", url: "https://github.com/mojtabaSefidi/EnrichEvent", icon: "./assets/icons/database.svg" },
           { label: "BibTeX", url: "./assets/publications/2023_EnrichEvent/bibtext.txt" },
         ],
       },
