@@ -1,4 +1,4 @@
-# Mohammadali Esfahani — Academic Portfolio made by Codex
+# Mohammadali Esfahani Academic Portfolio made by Codex
 
 A bilingual English/Persian academic portfolio hosted with GitHub Pages.
 
