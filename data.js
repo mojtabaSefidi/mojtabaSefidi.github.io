@@ -20,7 +20,7 @@ window.portfolioData = {
       // eyebrow: "AI for SE Researcher · Sharif University of Technology",
       description:
         "I am a computer science researcher exploring how artificial intelligence can improve software engineering through intelligent knowledge management, decision support, and data-driven software development practices.",
-      location: "PhD student in Computer Science",
+      location: "PhD student in Computer Science at Sharif University of Technology",
     },
     placeholders: {
       portrait: "Add your portrait",
@@ -84,14 +84,14 @@ window.portfolioData = {
       { label: "CV", url: "./assets/cv/Mohammadali_Esfahani_CV.pdf", kind: "profile", indicator: false },
     ],
     updates: [
-      // {
-      //   date: "September 2026",
-      //   title: "Start PhD in Computer Science",
-      //   description: "I am Glad to start my PhD in CS at Sharif University of Technology 😊",
-      //   link: "#education",
-      // },
       {
-        date: "Augest 2026",
+        date: "September 2026",
+        title: "Start PhD in Computer Science at Sharif University of Technology 🎉",
+        description: "A new chapter in my academic journey",
+        link: "#education",
+      },
+      {
+        date: "September 2026",
         title: "Whithraw from my PhD program at Concordia University",
         description: "Due to visa delays",
         link: "#education",
@@ -111,22 +111,23 @@ window.portfolioData = {
     ],
 
     education: [
-      // {
-      //   degree: "PhD in Computer Science",
-      //   university: "Sharif University of Technology",
-      //   supervisor: "",
-      //   thesis: "",
-      //   gpa: "Add cumulative GPA",
-      //   date: "September 2026 — Persent",
-      //   logo: "./assets/logos/aut_logo_en.png",
-      // },
+      {
+        degree: "PhD in Computer Science",
+        university: "Sharif University of Technology",
+        // supervisor: "",
+        // thesis: "",
+        // gpa: "Add cumulative GPA",
+        date: "September 2026 — Persent",
+        logo: "./assets/logos/SUT_logo.png",
+        // logo: "./assets/logos/SUT_logo_fa.png",
+      },
       {
         degree: "PhD in Software Engineering",
         university: "Concordia University, Montreal, Canada",
         supervisor: "Professor Peter Rigby",
         thesis: "Intelligent SE Knowledge Management Strategies",
         // gpa: "Add cumulative GPA",
-        date: "September 2024 — Augest 2026",
+        date: "September 2024 — September 2026",
         logo: "./assets/logos/concordia_logo.png",
       },
       {
@@ -304,7 +305,7 @@ window.portfolioData = {
       eyebrow: "پژوهشگر هوش مصنوعی برای مهندسی نرم‌افزار",
       description:
         "من پژوهشگر علوم کامپیوتر هستم و در زمینه کاربرد هوش مصنوعی در مهندسی نرم‌افزار فعالیت می‌کنم. تمرکز پژوهش‌هایم بر این است که با استفاده از هوش مصنوعی، مدیریت دانش در پروژه‌های نرم‌افزاری را هوشمندتر کنم، تصمیم‌گیری را بهبود دهم و فرایندهای توسعه نرم‌افزار را کارآمدتر و قابل‌اعتمادتر سازم.",
-      location: "دانشجوی دکتری علوم کامپیوتر",
+      location: "دانشجوی دکتری علوم کامپیوتر در دانشگاه صنعتی شریف",
     },
     placeholders: {
       portrait: "تصویر خود را اضافه کنید",
@@ -363,14 +364,14 @@ window.portfolioData = {
       { label: "رزومه", url: "./assets/cv/Mohammadali_Esfahani_CV.pdf", kind: "profile", indicator: false },
     ],
     updates: [
-      // {
-      //   date: "شهریور ۱۴۰۵",
-      //   title: "آغاز دوره دکتری علوم کامپیوتر",
-      //   description: "خوشحالم که دوره دکتری علوم کامپیوتر خود را در دانشگاه صنعتی شریف آغاز می‌کنم 😊",
-      //   link: "#education",
-      // },
       {
-        date: "مرداد ۱۴۰۵",
+        date: "مهر ۱۴۰۵",
+        title: "آغاز دوره دکتری علوم کامپیوتر در دانشگاه صنعتی شریف 🎉",
+        description: "فصل تازه‌ای از مسیر تحصیلی و پژوهشی من",
+        link: "#education",
+      },
+      {
+        date: "شهریور ۱۴۰۵",
         title: "انصراف از دوره دکتری مهندسی نرم‌افزار در دانشگاه کونکوردیا",
         description: "به دلیل عدم دریافت به موقع ویزا",
         link: "#education",
@@ -390,11 +391,20 @@ window.portfolioData = {
     ],
     education: [
       {
+        degree: "دکتری علوم کامپیوتر",
+        university: "دانشگاه صنعتی شریف",
+        // supervisor: "",
+        // thesis: "",
+        date: "مهر ۱۴۰۵ — در حال حاضر",
+        logo: "./assets/logos/SUT_logo.png",
+      },
+  
+      {
         degree: "دکتری مهندسی نرم‌افزار",
         university: "دانشگاه کنکوردیا، مونترال، کانادا",
         supervisor: "Professor Peter Rigby",
         thesis: "راهبردهای مدیریت هوشمند دانش در مهندسی نرم‌افزار",
-        date: "شهریور ۱۴۰۳ — مرداد ۱۴۰۵",
+        date: "شهریور ۱۴۰۳ — شهریور ۱۴۰۵",
         logo: "./assets/logos/concordia_logo.png",
       },
       {
@@ -532,6 +542,6 @@ window.portfolioData = {
 
   images: {
     portrait: "./assets/profile-pics/profile_photo_esfahani.jpg",
-    hobby: "./assets/profile-pics/BeyondResearch.jpeg",
+    hobby: "./assets/profile-pics/BeyondResearch.webp",
   },
 };
