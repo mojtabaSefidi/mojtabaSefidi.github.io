@@ -219,7 +219,7 @@ window.portfolioData = {
           { label: "Code", url: "https://github.com/mojtabaSefidi/Sofia-LearnerPlus", icon: "./assets/icons/code.svg" },
           { label: "Data", url: "https://figshare.com/s/b79fc69acad8e11be31a", icon: "./assets/icons/database.svg" },
           { label: "Conference", url: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov", icon: "./assets/icons/conference.svg" },
-          { label: "BibTeX", url: "./assets/publications/2026_ExpertPlus/bibtext.txt" },
+          { label: "BibTeX", url: "./assets/publications/2026_SofiaLearnerPlus/bibtext.txt" },
         ],
       },
       {
@@ -483,7 +483,7 @@ window.portfolioData = {
           { label: "کد", url: "https://github.com/mojtabaSefidi/Sofia-LearnerPlus", icon: "./assets/icons/code.svg" },
           { label: "داده", url: "https://figshare.com/s/b79fc69acad8e11be31a", icon: "./assets/icons/database.svg" },
           { label: "کنفرانس", url: "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/28/The-Cost-vs-the-Benefit-of-Adding-an-Extra-Code-Reviewer-to-Mitigate-Developer-Turnov", icon: "./assets/icons/conference.svg" },
-          { label: "BibTeX", url: "./assets/publications/2026_ExpertPlus/bibtext.txt" },
+          { label: "BibTeX", url: "./assets/publications/2026_SofiaLearnerPlus/bibtext.txt" },
         ],
       },
       {
