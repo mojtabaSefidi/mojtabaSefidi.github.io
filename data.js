@@ -113,8 +113,8 @@ window.portfolioData = {
     education: [
       {
         degree: "PhD in Computer Science",
-        university: "Sharif University of Technology",
-        // supervisor: "",
+        university: "Sharif University of Technology, Tehran, Iran",
+        supervisor: "Dr. Seyed Reza Moghadasi & Dr. Fatemeh Seyyedsalehi",
         // thesis: "",
         // gpa: "Add cumulative GPA",
         date: "September 2026 — Persent",
@@ -152,12 +152,18 @@ window.portfolioData = {
 
     awards: [
       {
+        title: "Canada Impact+ Research Training Award",
+        description: "Valued at CA$120,000 (unable to accept due to visa delays)",
+        institution: "Natural Sciences and Engineering Research Council (NSERC), Canada",
+        date: "2026",
+        logo: "./assets/logos/nserc-logo.jpg",
+      },
+      {
         title: "Concordia University Tuition Award of Excellence",
         description: "Valued at CA$48,888 (unable to accept due to visa delays)",
         institution: "Concordia University, Montreal, Canada",
         date: "2026",
         logo: "./assets/logos/concordia_logo.png",
-
       },
       {
         title: "Concordia University Graduate Doctoral Fellowship",
@@ -392,8 +398,8 @@ window.portfolioData = {
     education: [
       {
         degree: "دکتری علوم کامپیوتر",
-        university: "دانشگاه صنعتی شریف",
-        // supervisor: "",
+        university: "دانشگاه صنعتی شریف، تهران، ایران",
+        supervisor: "دکتر سید رضا مقدسی و دکتر فاطمه سیدصالحی",
         // thesis: "",
         date: "مهر ۱۴۰۵ — در حال حاضر",
         logo: "./assets/logos/SUT_logo.png",
@@ -427,6 +433,13 @@ window.portfolioData = {
       },
     ],
     awards: [
+      {
+        title: "بورسیه آموزشی پژوهشی +Impact کانادا",
+        description: "به ارزش ۱۲۰٬۰۰۰ دلار کانادا (به‌دلیل تأخیرهای ویزا امکان پذیرش آن فراهم نشد)",
+        institution: "شورای تحقیقات علوم طبیعی و مهندسی کانادا (NSERC), کانادا",
+        date: "۱۴۰۵",
+        logo: "./assets/logos/nserc-logo.jpg",
+      },
       {
         title: "جایزه تعالی شهریه دانشگاه کنکوردیا",
         description: "به ارزش ۴۸٬۸۸۸ دلار کانادا (به‌دلیل تأخیرهای ویزا امکان پذیرش آن فراهم نشد)",
