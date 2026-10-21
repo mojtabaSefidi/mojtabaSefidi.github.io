@@ -153,21 +153,21 @@ window.portfolioData = {
     awards: [
       {
         title: "Canada Impact+ Research Training Award",
-        description: "Valued at CA$120,000 (unable to accept due to visa delays)",
+        description: "Valued at CA$120,000 (unable to recieve due to visa delays)",
         institution: "Natural Sciences and Engineering Research Council (NSERC), Canada",
         date: "2026",
         logo: "./assets/logos/nserc-logo.jpg",
       },
       {
         title: "Concordia University Tuition Award of Excellence",
-        description: "Valued at CA$48,888 (unable to accept due to visa delays)",
+        description: "Valued at CA$48,888 (unable to recieve due to visa delays)",
         institution: "Concordia University, Montreal, Canada",
         date: "2026",
         logo: "./assets/logos/concordia_logo.png",
       },
       {
         title: "Concordia University Graduate Doctoral Fellowship",
-        description: "Valued at CA$56,000 (unable to accept due to visa delays)",
+        description: "Valued at CA$56,000 (unable to recieve due to visa delays)",
         institution: "Concordia University, Montreal, Canada",
         date: "2025",
         logo: "./assets/logos/concordia_logo.png",
@@ -175,7 +175,7 @@ window.portfolioData = {
       },
       {
         title: "Concordia University Split Graduate Fellowship GCS",
-        description: "Valued at CA$28,000 (unable to accept due to visa delays)",
+        description: "Valued at CA$28,000 (unable to recieve due to visa delays)",
         institution: "Concordia University, Montreal, Canada",
         date: "2024",
         logo: "./assets/logos/concordia_logo.png",
