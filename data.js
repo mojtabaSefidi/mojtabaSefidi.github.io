@@ -20,7 +20,7 @@ window.portfolioData = {
       // eyebrow: "AI for SE Researcher · Sharif University of Technology",
       description:
         "I am a computer science researcher exploring how artificial intelligence can improve software engineering through intelligent knowledge management, decision support, and data-driven software development practices.",
-      location: "PhD student in Computer Science at Sharif University of Technology",
+      location: "PhD student in Computer Science @ Sharif University of Technology",
     },
     placeholders: {
       portrait: "Add your portrait",
@@ -122,7 +122,7 @@ window.portfolioData = {
         // logo: "./assets/logos/SUT_logo_fa.png",
       },
       {
-        degree: "PhD in Software Engineering",
+        degree: "PhD in Software Engineering (Withdraw)",
         university: "Concordia University, Montreal, Canada",
         supervisor: "Professor Peter Rigby",
         thesis: "Intelligent SE Knowledge Management Strategies",
@@ -406,7 +406,7 @@ window.portfolioData = {
       },
   
       {
-        degree: "دکتری مهندسی نرم‌افزار",
+        degree: "دکتری مهندسی نرم افزار (انصراف)",
         university: "دانشگاه کنکوردیا، مونترال، کانادا",
         supervisor: "Professor Peter Rigby",
         thesis: "راهبردهای مدیریت هوشمند دانش در مهندسی نرم‌افزار",
@@ -435,28 +435,28 @@ window.portfolioData = {
     awards: [
       {
         title: "بورسیه آموزشی پژوهشی +Impact کانادا",
-        description: "به ارزش ۱۲۰٬۰۰۰ دلار کانادا (به‌دلیل تأخیرهای ویزا امکان پذیرش آن فراهم نشد)",
+        description: "به ارزش ۱۲۰٬۰۰۰ دلار کانادا (به‌دلیل عدم دریافت ویزا امکان پذیرش آن فراهم نشد)",
         institution: "شورای تحقیقات علوم طبیعی و مهندسی کانادا (NSERC), کانادا",
         date: "۱۴۰۵",
         logo: "./assets/logos/nserc-logo.jpg",
       },
       {
         title: "جایزه تعالی شهریه دانشگاه کنکوردیا",
-        description: "به ارزش ۴۸٬۸۸۸ دلار کانادا (به‌دلیل تأخیرهای ویزا امکان پذیرش آن فراهم نشد)",
+        description: "به ارزش ۴۸٬۸۸۸ دلار کانادا (به‌دلیل عدم دریافت ویزا امکان پذیرش آن فراهم نشد)",
         institution: "دانشگاه کنکوردیا، مونترال، کانادا",
         date: "۱۴۰۵",
         logo: "./assets/logos/concordia_logo.png",
       },
       {
         title: "بورسیه دکتری تحصیلات تکمیلی دانشگاه کنکوردیا",
-        description: "به ارزش ۵۶٬۰۰۰ دلار کانادا (به‌دلیل تأخیرهای ویزا امکان پذیرش آن فراهم نشد)",
+        description: "به ارزش ۵۶٬۰۰۰ دلار کانادا (به‌دلیل عدم دریافت ویزا امکان پذیرش آن فراهم نشد)",
         institution: "دانشگاه کنکوردیا، مونترال، کانادا",
         date: "۱۴۰۴",
         logo: "./assets/logos/concordia_logo.png",
       },
       {
         title: "بورسیه تحصیلات تکمیلی مشترک GCS دانشگاه کنکوردیا",
-        description: "به ارزش ۲۸٬۰۰۰ دلار کانادا (به‌دلیل تأخیرهای ویزا امکان پذیرش آن فراهم نشد)",
+        description: "به ارزش ۲۸٬۰۰۰ دلار کانادا (به‌دلیل عدم دریافت ویزا امکان پذیرش آن فراهم نشد)",
         institution: "دانشگاه کنکوردیا، مونترال، کانادا",
         date: "۱۴۰۳",
         logo: "./assets/logos/concordia_logo.png",
