@@ -153,21 +153,21 @@ window.portfolioData = {
     awards: [
       {
         title: "Canada Impact+ Research Training Award",
-        description: "Valued at CA$120,000 (unable to recieve due to visa delays)",
+        description: "Valued at CA$120,000",
         institution: "Natural Sciences and Engineering Research Council (NSERC), Canada",
         date: "2026",
         logo: "./assets/logos/nserc-logo.jpg",
       },
       {
         title: "Concordia University Tuition Award of Excellence",
-        description: "Valued at CA$48,888 (unable to recieve due to visa delays)",
+        description: "Valued at CA$48,888",
         institution: "Concordia University, Montreal, Canada",
         date: "2026",
         logo: "./assets/logos/concordia_logo.png",
       },
       {
         title: "Concordia University Graduate Doctoral Fellowship",
-        description: "Valued at CA$56,000 (unable to recieve due to visa delays)",
+        description: "Valued at CA$56,000",
         institution: "Concordia University, Montreal, Canada",
         date: "2025",
         logo: "./assets/logos/concordia_logo.png",
@@ -175,7 +175,7 @@ window.portfolioData = {
       },
       {
         title: "Concordia University Split Graduate Fellowship GCS",
-        description: "Valued at CA$28,000 (unable to recieve due to visa delays)",
+        description: "Valued at CA$28,000",
         institution: "Concordia University, Montreal, Canada",
         date: "2024",
         logo: "./assets/logos/concordia_logo.png",
@@ -435,28 +435,28 @@ window.portfolioData = {
     awards: [
       {
         title: "بورسیه آموزشی پژوهشی +Impact کانادا",
-        description: "به ارزش ۱۲۰٬۰۰۰ دلار کانادا (به‌دلیل عدم دریافت ویزا امکان پذیرش آن فراهم نشد)",
+        description: "به ارزش ۱۲۰٬۰۰۰ دلار کانادا",
         institution: "شورای تحقیقات علوم طبیعی و مهندسی کانادا (NSERC), کانادا",
         date: "۱۴۰۵",
         logo: "./assets/logos/nserc-logo.jpg",
       },
       {
         title: "جایزه تعالی شهریه دانشگاه کنکوردیا",
-        description: "به ارزش ۴۸٬۸۸۸ دلار کانادا (به‌دلیل عدم دریافت ویزا امکان پذیرش آن فراهم نشد)",
+        description: "به ارزش ۴۸٬۸۸۸ دلار کانادا",
         institution: "دانشگاه کنکوردیا، مونترال، کانادا",
         date: "۱۴۰۵",
         logo: "./assets/logos/concordia_logo.png",
       },
       {
         title: "بورسیه دکتری تحصیلات تکمیلی دانشگاه کنکوردیا",
-        description: "به ارزش ۵۶٬۰۰۰ دلار کانادا (به‌دلیل عدم دریافت ویزا امکان پذیرش آن فراهم نشد)",
+        description: "به ارزش ۵۶٬۰۰۰ دلار کانادا",
         institution: "دانشگاه کنکوردیا، مونترال، کانادا",
         date: "۱۴۰۴",
         logo: "./assets/logos/concordia_logo.png",
       },
       {
         title: "بورسیه تحصیلات تکمیلی مشترک GCS دانشگاه کنکوردیا",
-        description: "به ارزش ۲۸٬۰۰۰ دلار کانادا (به‌دلیل عدم دریافت ویزا امکان پذیرش آن فراهم نشد)",
+        description: "به ارزش ۲۸٬۰۰۰ دلار کانادا",
         institution: "دانشگاه کنکوردیا، مونترال، کانادا",
         date: "۱۴۰۳",
         logo: "./assets/logos/concordia_logo.png",
